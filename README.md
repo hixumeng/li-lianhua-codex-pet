@@ -1,20 +1,20 @@
-# Li Lianhua Codex Pet / 李莲花 Codex 桌宠
+# Wangquan Fugui Codex Pet / 王权富贵 Codex 桌宠
 
-An unofficial, fan-made animated Li Lianhua desktop pet for Codex, created from user-provided reference artwork. It uses the Codex pet v2 format with nine standard animation states and sixteen clockwise look directions.
+An unofficial, fan-made animated Wangquan Fugui desktop pet for Codex, created from user-provided reference artwork. It uses the Codex pet v2 format with nine standard animation states and sixteen clockwise look directions.
 
-![Li Lianhua animation contact sheet](preview.png)
+![Wangquan Fugui animation contact sheet](preview.png)
 
 ## Install
 
 1. Download `pet.json` and `spritesheet.webp`.
-2. Create `~/.codex/pets/li-lianhua/`.
+2. Create `~/.codex/pets/wangquan-fugui/`.
 3. Copy both files into that folder.
 4. Restart Codex if the pet does not appear immediately.
 
 Expected layout:
 
 ```text
-~/.codex/pets/li-lianhua/
+~/.codex/pets/wangquan-fugui/
 ├── pet.json
 └── spritesheet.webp
 ```
@@ -39,19 +39,19 @@ Created by Emon Xu with Codex.
 
 ## 中文介绍
 
-这是一个非官方同人作品：基于用户提供的参考图，为 Codex 制作的「李莲花」动态桌宠。桌宠采用 Codex v2 格式，包含九种标准动画状态和十六个顺时针观察方向。
+这是一个非官方同人作品：基于用户提供的参考图，为 Codex 制作的「王权富贵」动态桌宠。桌宠采用 Codex v2 格式，包含九种标准动画状态和十六个顺时针观察方向。
 
 ## 安装方法
 
 1. 下载 `pet.json` 和 `spritesheet.webp`。
-2. 创建目录 `~/.codex/pets/li-lianhua/`。
+2. 创建目录 `~/.codex/pets/wangquan-fugui/`。
 3. 将两个文件复制到该目录中。
 4. 如果桌宠没有立即出现，请重新启动 Codex。
 
 安装后的目录结构：
 
 ```text
-~/.codex/pets/li-lianhua/
+~/.codex/pets/wangquan-fugui/
 ├── pet.json
 └── spritesheet.webp
 ```
